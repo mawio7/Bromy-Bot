@@ -1,9 +1,9 @@
-# Perplex-Bot
-Perplex is a multipurpose Discord Bot, with features like a captcha system, join-to-create system and much more
+# Bromy-Bot
+Bromy is a multipurpose Discord Bot, with features like a captcha system, join-to-create system and much more
 - Released: 28.07.2022
-- [Invite the bot](https://discord.com/oauth2/authorize?client_id=1000417670153375824&permissions=8&scope=bot%20applications.commands)
+- [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=1073805826927624202&permissions=8&scope=bot)
 <p align="center">
-	<a href="https://discord.gg/yVWygKS3Xn">
+	<a href= "https://discord.gg/X4NaJyzBX4">
 		<img src="https://canary.discordapp.com/api/guilds/999373116918743100/embed.png" alt="Discord server">
 	</a>
 </p>
@@ -12,7 +12,7 @@ Perplex is a multipurpose Discord Bot, with features like a captcha system, join
 
 1. Start cloning the repository and installing the dependencies.
 ```bash
-git clone https://github.com/gokiimax/Perplex-Bot.git
+git clone https://github.com/elmariouwu/Perplex-Bot.git
 cd Perplex-Bot
 npm install
 ```

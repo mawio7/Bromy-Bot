@@ -55,8 +55,16 @@ client.modlogs = async function({ Member, Action, Color, Reason }, interaction) 
 
   channel.send({embeds: [logsEmbed]})
 }
+const express = require('express')
+const app = express();
+const port = 3000
 
-client.login(client.config.token).then(() => {
+app.get('/', (req, res) => res.send('Odd is better.'))
+
+app.listen(port, () =>
+console.log(`Your app is listening a http://localhost:${port}`)
+);
+client.login(process.env.token).then(() => {
   loadEvents(client);
   loadCommands(client);
   loadComponents(client);
