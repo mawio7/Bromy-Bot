@@ -12,8 +12,8 @@ Bromy is a multipurpose Discord Bot, with features like a captcha system, join-t
 
 1. Start cloning the repository and installing the dependencies.
 ```bash
-git clone https://github.com/elmariouwu/Perplex-Bot.git
-cd Perplex-Bot
+git clone https://github.com/elmariouwu/Bromy-Bot.git
+cd Bromy-Bot
 npm install
 ```
 2. Make sure you installed [ffmpeg](https://ffmpeg.org/) (for the music system)
@@ -43,14 +43,11 @@ npm run start
 ## Contributing
 You are welcome to contribute by submitting a Pull Request to the repository.
 
+## Discord
+[≪✦𝙼𝙰𝚁𝙸𝙾✦≫#5338](https://discord.gg/NS2bCqKq4X)
+
 ## Author
-[gokimax](https://github.com/gokiimax)
+[elmariouwu](https://github.com/elmariouwu)
 
 ## ☕️ Support & Socials
-My Bot is open source and free to use. If you found any of my repos useful and would like to support my projects, feel free to donate to my bitcoin address.
-
-### 🔗 bc1qvchfpnjgwwgm7hel5sd70t7v4c4n89c3z7dyd7
-
-[![TikTok Link](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@maxii.x6)
-[![Twitter Link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gokimax_x)
-[![Insta Link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maxii.x6)
+My Bot is open source and free to use. If you found any of my repos useful and would like to support my projects.

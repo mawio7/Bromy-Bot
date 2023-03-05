@@ -32,7 +32,8 @@ async function updateActivity(client) {
 
   const activities = [
     `/invite | Watching ${servercount} Server`,
-    `Created by maxシ#6858`,
+    `Created by ≪✦𝙼𝙰𝚁𝙸𝙾✦≫#5338`,
+    `my creator is very cute and good hehe :3`
   ]
 
   setInterval(() => {

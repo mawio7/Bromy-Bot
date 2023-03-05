@@ -1,7 +1,7 @@
 {
-    "developerGuild": "dev guild id",
+    "developerGuild": "1081719745214165193",
     "activityInterval": 5,
     "botMainColor": "0xff5454",
     "botErrorColor": "0xdb3535",
-    "database": "you mongo db url"
+    "database": "mongodb+srv://admin:admin@cluster0.l1ualfd.mongodb.net/?retryWrites=true&w=majority"
 }
